@@ -1,0 +1,131 @@
+html
+{
+    background-color: black; 
+}
+
+.Header
+{
+    color: orange;
+    background-color: black;
+    width: 100%;
+    height: 2em;
+    position: fixed;
+}
+
+.PHeader
+{
+    margin: 6px 0 0 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.Nav
+{
+    margin-right: 1em;
+    color: orange;
+    text-decoration: none;
+}
+
+.Body
+{
+    width: 100%;
+    margin: 0;
+}
+
+.Main
+{
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+}
+
+.UnderMain
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 50em;
+    background-color: rgb(43, 43, 43);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ServiceName
+{
+    color: orange;
+    margin-top: 3em;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.Services
+{
+    margin-top: 0;
+    font-size: small;
+    color: orange;  
+}
+
+.Img
+{
+    float: left;
+    width: 16em;
+    height: 12em;
+    margin: 0em 1em 1em 0em;
+    position: static;
+}
+
+#Bottom
+{
+    margin-bottom: 0;
+    margin-top: 1em;
+}
+
+.Name
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Parag
+{
+    margin-right: 1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Cell
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Footer
+{
+    background-color: black;
+    width: 100%;
+    height: 2em;
+}
+
+.Foot
+{
+    color: orange;
+}
+
+.Geo
+{
+    display: inline-block;
+    margin-left: 20em;
+}
+
+.Cont
+{
+    margin-left: 30em;
+    display: inline-block;
+    
+}
+
+.Rule
+{
+    text-align: center;
+    margin: 0;
+    color: orange;
+}

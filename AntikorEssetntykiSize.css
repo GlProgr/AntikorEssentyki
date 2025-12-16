@@ -1,0 +1,199 @@
+@media (min-width: 2560px)
+{
+    .Header 
+    {
+        font-size: xx-large;
+    }
+    .UnderMain
+    {
+        justify-content: left;
+        width: 90em;
+    }
+    .Img
+    {
+        width: 50em;
+        height: 40em;
+        margin: 0 1em 1em 0;
+    }
+    .ServiceName
+    {
+        text-align: center;
+        font-size: xx-large;
+        margin-top: 2em;
+    }
+    #Card
+    {
+        font-size: xx-large;
+    }
+    .Geo
+    {
+        margin-right:100em;
+    }
+    .Cont
+    {
+        margin-left: 100em;
+    }
+}
+
+@media (max-width: 1440px)
+{
+    .ServiceName
+    {
+        justify-content: left;
+        margin-top: 2em;
+    }
+    .UnderMain
+    {
+        width: 50em;
+    }
+    #Card
+    {
+        font-size:small;
+    }
+}
+/* 175% */
+@media (max-width: 1024px) 
+{
+     .UnderMain
+    {
+        width: 40em;
+    }
+    .Img
+    {
+        width: 15em;
+        height: 10em;
+        margin-top: 1em;
+    }
+    #Card
+    {
+        font-size:x-small;
+    }
+    .Geo
+    {
+        margin-left: 12em;
+    }
+    .Cont
+    {
+        margin-left: 12em;
+    }
+}
+/* 300% */
+@media (max-width: 768px)
+{
+    .PHeader
+    {
+        font-size: xx-small;
+    }
+     .UnderMain
+    {
+    width: 20em;
+    }
+    .Img
+    {
+        width: 23em;
+        height: 10em;
+        margin-top: 1em;
+        margin-right: 1em;
+    }
+    .Geo
+    {
+        margin-left: 1em;
+    }
+    .Cont
+    {
+        margin-left: 2em;
+    }
+    #Card
+    {
+        text-align: center;
+    }
+}
+/* 400% */
+@media (max-width: 425px)
+{
+    .PHeader
+    {
+        font-size: x-small;
+    }
+     .UnderMain
+    {
+        width: 20em;
+    }
+    .Img
+    {
+        width: 20em;
+        height: 20em;
+    }
+    .Geo
+    {
+        margin-left: 4em;
+    }
+    .Cont
+    {
+        margin-left: 5em;
+    }
+    #Card
+    {
+        text-align: center;
+    }
+}
+/* 
+@media (max-width: 375px)
+{
+    .PHeader
+    {
+        font-size: small;
+    }
+     .UnderMain
+    {
+        width: 100em;
+    }
+    .Img
+    {
+        width: 50em;
+        height: 50em;
+        margin: 0;
+    }
+    .Geo
+    {
+        margin-left: 1em;
+    }
+    .Cont
+    {
+        margin-left: 1em;
+    }
+    #Card
+    {
+        text-align: center;
+    }
+} */
+/* 500% */
+@media (max-width: 320px)
+{
+    .PHeader
+    {
+        font-size: xx-small;
+    }
+     .UnderMain
+    {
+        width: 15em;
+    }
+    .Img
+    {
+        width: 18.5em;
+        height: 10em;
+        margin: 0;
+    }
+    .Geo
+    {
+        margin-right: 0;
+    }
+    .Cont
+    {
+        margin-left: 0;
+    }
+    #Card
+    {
+        text-align: center;
+    }
+}
