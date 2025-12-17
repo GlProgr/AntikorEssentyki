@@ -112,7 +112,7 @@
 {
     .PHeader
     {
-        font-size: x-small;
+        font-size: small;
     }
      .UnderMain
     {
@@ -137,6 +137,7 @@
     #Card
     {
         text-align: center;
+        font-size: small;
     }
 }
 /* 500% */
